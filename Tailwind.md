@@ -13,3 +13,19 @@ Use pt-<number>, pr-<number>, pb-<number>, and pl-<number> utilities like pt-6 a
 # Width
 
 https://tailwindcss.com/docs/width
+
+# Hover, focus, and other states
+
+https://tailwindcss.com/docs/hover-focus-and-other-states
+
+# Responsive design
+
+https://tailwindcss.com/docs/responsive-design
+
+# grid-template-columns
+
+https://tailwindcss.com/docs/grid-template-columns
+
+# flex-wrap
+
+https://tailwindcss.com/docs/flex-wrap
