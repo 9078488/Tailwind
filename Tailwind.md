@@ -1,3 +1,7 @@
+# Get started with Tailwind CSS
+
+https://tailwindcss.com/docs/installation/using-vite
+
 # Colors
 
 https://tailwindcss.com/docs/colors
