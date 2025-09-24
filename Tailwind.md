@@ -6,6 +6,8 @@ https://tailwindcss.com/docs/installation/using-vite
 
 Tailwind CSS IntelliSense
 
+Tailwind Fold
+
 # Colors
 
 https://tailwindcss.com/docs/colors
