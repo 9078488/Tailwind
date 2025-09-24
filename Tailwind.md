@@ -2,6 +2,10 @@
 
 https://tailwindcss.com/docs/installation/using-vite
 
+# VS Code插件
+
+Tailwind CSS IntelliSense
+
 # Colors
 
 https://tailwindcss.com/docs/colors
