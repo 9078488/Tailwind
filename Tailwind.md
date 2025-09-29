@@ -2,6 +2,8 @@
 
 https://tailwindcss.com/docs/installation/using-vite
 
+只能把代码合并到vite.config.js，而不是删除掉原代码
+
 # VS Code插件
 
 Tailwind CSS IntelliSense
