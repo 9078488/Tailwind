@@ -88,3 +88,5 @@ https://tailwindcss.com/docs/border-radius
 # font-size
 
 https://tailwindcss.com/docs/font-size
+
+# overflow
