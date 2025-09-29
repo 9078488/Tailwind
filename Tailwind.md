@@ -58,3 +58,17 @@ https://tailwindcss.com/docs/font-size
 # font-weight
 
 https://tailwindcss.com/docs/font-weight
+
+# text-align
+
+https://tailwindcss.com/docs/text-align
+
+# background-color
+
+https://tailwindcss.com/docs/background-color
+
+# border-width
+
+divide-y divide-green-500
+
+https://tailwindcss.com/docs/border-width#reversing-children-order
