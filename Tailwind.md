@@ -72,3 +72,19 @@ https://tailwindcss.com/docs/background-color
 divide-y divide-green-500
 
 https://tailwindcss.com/docs/border-width#reversing-children-order
+
+# min-width
+
+min-w-full
+
+https://tailwindcss.com/docs/min-width#using-a-percentage
+
+# border
+
+border:是否有边框
+
+https://tailwindcss.com/docs/border-radius
+
+# font-size
+
+https://tailwindcss.com/docs/font-size
