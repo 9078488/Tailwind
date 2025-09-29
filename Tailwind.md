@@ -7,6 +7,7 @@ https://tailwindcss.com/docs/installation/using-vite
 
 把@import "tailwindcss";加入到index.css，删掉index.css里原来的全部代码，删掉app.css
 
+不需要把<link href="style.css" rel="stylesheet">加到index.html里，在main.jsx里加上import './index.css' 就行
 
 # VS Code插件
 
