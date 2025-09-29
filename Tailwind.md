@@ -4,6 +4,10 @@ https://tailwindcss.com/docs/installation/using-vite
 
 只能把代码合并到vite.config.js，而不是删除掉原代码
 
+
+把@import "tailwindcss";加入到index.css，删掉index.css里原来的全部代码，删掉app.css
+
+
 # VS Code插件
 
 Tailwind CSS IntelliSense
