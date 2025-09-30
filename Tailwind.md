@@ -96,3 +96,7 @@ https://tailwindcss.com/docs/border-radius
 https://tailwindcss.com/docs/font-size
 
 # overflow
+
+# flex
+
+https://tailwindcss.com/docs/flex
