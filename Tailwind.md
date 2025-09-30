@@ -100,3 +100,7 @@ https://tailwindcss.com/docs/font-size
 # flex
 
 https://tailwindcss.com/docs/flex
+
+# flex-direction
+
+https://tailwindcss.com/docs/flex-direction#column
