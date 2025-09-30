@@ -79,6 +79,12 @@ min-w-full
 
 https://tailwindcss.com/docs/min-width#using-a-percentage
 
+# max-width
+
+max-w-7xl
+
+https://tailwindcss.com/docs/max-width#basic-example
+
 # border
 
 border:是否有边框
