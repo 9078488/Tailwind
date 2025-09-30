@@ -168,6 +168,10 @@ https://tailwindcss.com/docs/flex-direction#column
 
 `border` 添加边框
 
+## border-radius
+
+`rounded-lg`
+
 ## border-width
 
 `border-3"`
