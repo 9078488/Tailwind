@@ -136,6 +136,10 @@ https://tailwindcss.com/docs/flex-direction#column
 
 # Typography
 
+## font-weight
+
+`font-bold`
+
 ## line-height
 
 `leading-10`
