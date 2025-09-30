@@ -41,6 +41,8 @@ https://tailwindcss.com/docs/hover-focus-and-other-states
 
 # Responsive design
 
+sm:flex-row
+
 https://tailwindcss.com/docs/responsive-design
 
 # grid-template-columns
