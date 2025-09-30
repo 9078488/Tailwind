@@ -112,6 +112,10 @@ https://tailwindcss.com/docs/flex-direction#column
 --------------------------------------------------
 # Core concepts
 
+## Responsive design
+
+`md:w-32 lg:w-48`
+
 ## Hover, focus, and other states
 
 `hover:bg-yellow-600`
