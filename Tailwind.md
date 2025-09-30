@@ -114,6 +114,14 @@ https://tailwindcss.com/docs/flex-direction#column
 
 ## Colors
 
+# Typography
+
+## color
+
+`text-white`
+
+`text-green-600`
+
 # Backgrounds
 
 ## background-color
