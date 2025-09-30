@@ -112,9 +112,27 @@ https://tailwindcss.com/docs/flex-direction#column
 --------------------------------------------------
 # Core concepts
 
+## Hover, focus, and other states
+
+`hover:bg-yellow-600`
+
+`focus:bg-cyan-600`：用于按钮、文本框等
+
 ## Colors
 
 # Typography
+
+## line-height
+
+`leading-10`
+
+## text-align
+
+`text-left`
+
+`text-center`
+
+`text-right`
 
 ## color
 
@@ -127,6 +145,18 @@ https://tailwindcss.com/docs/flex-direction#column
 ## background-color
 
 `bg-red-300`
+
+# Borders
+
+`border` 添加边框
+
+## border-width
+
+`border-3"`
+
+## border-color
+
+
 
 
 
