@@ -132,6 +132,10 @@ https://tailwindcss.com/docs/flex-direction#column
 
 `gap-y-20`
 
+## align-items
+
+`items-center`
+
 # Spacing
 
 ## padding
@@ -141,6 +145,12 @@ https://tailwindcss.com/docs/flex-direction#column
 `py-30`
 
 ## margin
+
+# Sizing
+
+## height
+
+`h-96`
 
 # Typography
 
