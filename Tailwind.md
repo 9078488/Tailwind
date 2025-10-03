@@ -124,6 +124,14 @@ https://tailwindcss.com/docs/flex-direction#column
 
 ## Colors
 
+# Flexbox & Grid
+
+## gap
+
+`gap-x-16` 
+
+`gap-y-20`
+
 # Spacing
 
 ## padding
