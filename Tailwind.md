@@ -162,6 +162,10 @@ https://tailwindcss.com/docs/flex-direction#column
 
 `font-bold`
 
+## letter-spacing
+
+`tracking-wider`
+
 ## line-height
 
 `leading-10`
