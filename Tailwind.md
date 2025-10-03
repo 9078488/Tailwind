@@ -154,6 +154,10 @@ https://tailwindcss.com/docs/flex-direction#column
 
 # Typography
 
+## font-size
+
+`text-lg`
+
 ## font-weight
 
 `font-bold`
