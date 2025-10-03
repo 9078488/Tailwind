@@ -176,6 +176,10 @@ https://tailwindcss.com/docs/flex-direction#column
 
 `text-green-600`
 
+## text-transform
+
+`capitalize`
+
 # Backgrounds
 
 ## background-color
