@@ -208,6 +208,12 @@ https://tailwindcss.com/docs/flex-direction#column
 
 ## border-color
 
+# Transitions & Animation
+
+## transition-duration 
+
+`hover:text-emerald-600 duration-300`
+
 
 
 
