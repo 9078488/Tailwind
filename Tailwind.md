@@ -134,6 +134,8 @@ https://tailwindcss.com/docs/flex-direction#column
 
 ## gap
 
+`gap-8`
+
 `gap-x-16` 
 
 `gap-y-20`
