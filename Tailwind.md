@@ -130,6 +130,8 @@ https://tailwindcss.com/docs/flex-direction#column
 
 `grid`:激活grid容器
 
+`grid-cols-2`
+
 ## gap
 
 `gap-x-16` 
