@@ -126,6 +126,10 @@ https://tailwindcss.com/docs/flex-direction#column
 
 # Flexbox & Grid
 
+## grid-template-columns
+
+`grid`:激活grid容器
+
 ## gap
 
 `gap-x-16` 
@@ -146,7 +150,13 @@ https://tailwindcss.com/docs/flex-direction#column
 
 ## margin
 
+`mx-auto`：主要作用是将一个块级元素（block-level element）在其父容器中水平居中
+
 # Sizing
+
+## max-width
+
+`max-w-7xl`
 
 ## height
 
